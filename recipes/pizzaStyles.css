@@ -4,3 +4,8 @@ body {
     background-size: 100%;
     color: white;
     }
+
+#pizzaIMG {
+    float: right;
+    transform: rotate(90deg);
+}

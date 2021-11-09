@@ -1,8 +1,8 @@
 body {
-    background-image: url("redwavy.svg");
+    background-image: url("bluewavy.svg");
     background-repeat: no-repeat;
     background-size: 100%;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 #pizza {
