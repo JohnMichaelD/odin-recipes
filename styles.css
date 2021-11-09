@@ -1,0 +1,14 @@
+body {
+    background-image: url("redwavy.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}
+
+#pizza {
+    width: 250px;
+}
+
+.stepsContainer {
+    color: yellowgreen;
+}
