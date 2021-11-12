@@ -4,10 +4,10 @@ body {
     font-family: monospace;
 }
 
-.title {
-    background-color: #ffffff10;
+.titleContainer {
+    /*background-color: #ffffff10;
     backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);*/
     width: 100vw;
     height: 150px;
     color: #ffffff;
@@ -16,10 +16,17 @@ body {
     justify-content: center;
 }
 
+#title {
+    font-size: 6.5em;
+    font-family: 'Yuji Boku', serif;
+    /*color: #FFC745;*/
+    color: #FF9700;
+}
+
 .recipeList {
-    background-color: #ffffff10;
+    /*background-color: #ffffff10;
     backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);*/
     width: 100vw;
     display: flex;
     flex-direction: column;
@@ -31,4 +38,5 @@ button {
     color: yellow;
     height: 28px;
     width: 200px;
+    border-radius: 20px;
 }
