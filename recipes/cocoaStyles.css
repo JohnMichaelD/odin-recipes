@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+    font-family: 'Yuji Boku', serif;
+}
+
+#cocoaImg {
+    width: 450px;
+}
+
+#infoContainer {
+display: flex;
+flex-direction: row;
+}
+
+.ingredientsContainer {
+width: 400px;
+}
+
+.stepsContainer {
+width: 500px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
