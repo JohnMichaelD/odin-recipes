@@ -20,6 +20,11 @@ body {
     color: #FF9700;
 }
 
+.subtitle {
+    display: flex; 
+    justify-content: center;
+}
+
 .recipeList {
     /*background-color: #ffffff10;
     backdrop-filter: blur(12px);
@@ -28,11 +33,6 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-
-.subtitle {
-    display: flex; 
-    justify-content: center;
 }
 
 button {
