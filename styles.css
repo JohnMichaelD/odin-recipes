@@ -8,11 +8,8 @@ body {
     /*background-color: #ffffff10;
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);*/
-    width: 100vw;
-    height: 150px;
     color: #ffffff;
     display: flex;
-    align-items: center;
     justify-content: center;
 }
 
@@ -31,6 +28,11 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.subtitle {
+    display: flex; 
+    justify-content: center;
 }
 
 button {
