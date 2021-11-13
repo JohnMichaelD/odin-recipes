@@ -29,13 +29,8 @@ width: 400px;
 width: 500px;
 }
 
-a:link {
-    color: white;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
+a:link,
+a:visited {
     color: white;
     background-color: transparent;
     text-decoration: none;
